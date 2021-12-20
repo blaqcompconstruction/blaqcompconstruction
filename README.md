@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blaqcompconstruction
 - 👀 I’m interested in ...mining
-- 🌱 I’m currently learning ...bitcoin
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...crypto mining
+- 💞️ I’m looking to collaborate on ...bitcoin mining v
 - 📫 How to reach me ...blaqcompconstruction
 
 <!---
